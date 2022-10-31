@@ -2,7 +2,7 @@
 
 ## Build docker image
 ```
-docker build -t denysl1enk0/node-devops:latest -f ./Dockerfile
+docker build -t denysl1enk0/node-devops:latest -f .\Dockerfile .
 ```
 
 ## Run container with cpu and memory limits
